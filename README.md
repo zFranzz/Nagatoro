@@ -8,6 +8,4 @@ This client barely bypasses, and isn't made to, it's made as a joke and a projec
 
 
 # Credits
-Client Base made by Nef @ [Intent Store](https://intent.store). If you're interested in making your first client, i'd check out his [tutorial series]().
-
-Alt manager made by [Vextrall](https://github.com/Vextrall/AltManager) and changed to work on 1.8 by [ve4k](https://github.com/ve4k/AltManager)
+Client Base made by Nefarious @ [Intent Store](https://intent.store). If you're interested in making your first client, i'd check out his [tutorial series](https://www.youtube.com/playlist?list=PLhgpmtS-kfPfoXwj-LlgavSXr3AoTnZ34).
